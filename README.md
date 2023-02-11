@@ -1,2 +1,2 @@
-# HMs_bioavailability
+# Regression_prediction_with_Python_Scikit_Learn
 Modeling the physicochemical parameter effect on heavy metal bioavailability
